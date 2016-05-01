@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">hermosaprogramacion</string>
+
+    <array name="lista_cargo">
+        <item>Medico</item>
+        <item>odontologo</item>
+        <item>Bacteriologo</item>
+        <item>Enfermera</item>
+        <item>Auxiliar</item>
+    </array>
+    <array name="lista_estado_civil">
+        <item>Soltero</item>
+        <item>Casado</item>
+        <item>Unión Libre</item>
+        <item>Viudo</item>
+        <item>Separado</item>
+    </array>
+</resources>
